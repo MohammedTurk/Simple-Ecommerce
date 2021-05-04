@@ -1,0 +1,20 @@
+.btn-black{
+    border:2px solid #000 !important;
+    /* font-size: 10px; */
+    font-weight: bold;
+    transition: all .3s ease 
+    !important;
+    margin-right: 7px;
+    padding: 4px 10px !important;
+}
+.btn-black:hover{
+    background-color: #000;
+    color: #fff !important;
+    border:2px solid #fff !important;
+
+}
+.fa-trash{
+    color: #FA7A00;
+    font-size: 1.7em !important;
+    cursor: pointer;
+}
